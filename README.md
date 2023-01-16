@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordrag
+- 👋 Hi, my name is Jordan.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
